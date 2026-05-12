@@ -1,0 +1,89 @@
+2026-05-12 19:41:30,879 - INFO - UDP Listener started on port 50000
+2026-05-12 19:41:30,879 - INFO - TCP Listener started on port 50001
+2026-05-12 19:41:32,811 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:41:32,811 - INFO - Sent discovery broadcast
+2026-05-12 19:41:32,819 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:41:45,993 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:41:45,993 - INFO - Sent discovery broadcast
+2026-05-12 19:41:46,005 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:41:46,225 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:41:46,225 - INFO - Sent discovery broadcast
+2026-05-12 19:41:46,235 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:41:46,458 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:41:46,458 - INFO - Sent discovery broadcast
+2026-05-12 19:41:46,467 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:41:46,649 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:41:46,649 - INFO - Sent discovery broadcast
+2026-05-12 19:41:46,655 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:41:46,805 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:41:46,805 - INFO - Sent discovery broadcast
+2026-05-12 19:41:46,816 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:41:47,039 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:41:47,039 - INFO - Sent discovery broadcast
+2026-05-12 19:41:47,049 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:42:12,568 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:42:12,568 - INFO - Sent discovery broadcast
+2026-05-12 19:42:12,580 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:42:12,785 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:42:12,786 - INFO - Sent discovery broadcast
+2026-05-12 19:42:12,791 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:42:13,002 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:42:13,003 - INFO - Sent discovery broadcast
+2026-05-12 19:42:13,014 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:42:13,128 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:42:13,128 - INFO - Sent discovery broadcast
+2026-05-12 19:42:13,137 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:42:13,251 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:42:13,251 - INFO - Sent discovery broadcast
+2026-05-12 19:42:13,256 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:42:13,429 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:42:13,429 - INFO - Sent discovery broadcast
+2026-05-12 19:42:13,440 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:42:13,651 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:42:13,652 - INFO - Sent discovery broadcast
+2026-05-12 19:42:13,673 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:42:14,151 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:42:14,151 - INFO - Sent discovery broadcast
+2026-05-12 19:42:14,161 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:42:14,390 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:42:14,391 - INFO - Sent discovery broadcast
+2026-05-12 19:42:14,402 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:42:14,542 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:42:14,542 - INFO - Sent discovery broadcast
+2026-05-12 19:42:14,551 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:42:14,717 - INFO - Sent discovery broadcast
+2026-05-12 19:42:14,717 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:42:14,723 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:42:59,676 - INFO - UDP Listener started on port 50000
+2026-05-12 19:42:59,677 - INFO - TCP Listener started on port 50001
+2026-05-12 19:43:02,757 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:43:02,757 - INFO - Sent discovery broadcast
+2026-05-12 19:43:02,766 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:45:42,651 - INFO - UDP Listener started on port 50000
+2026-05-12 19:45:42,652 - INFO - TCP Listener started on port 50001
+2026-05-12 19:46:02,814 - INFO - UDP Listener started on port 50000
+2026-05-12 19:46:02,815 - INFO - TCP Listener started on port 50001
+2026-05-12 19:50:40,756 - INFO - UDP Listener started on port 50000
+2026-05-12 19:50:40,757 - INFO - TCP Listener started on port 50001
+2026-05-12 19:50:44,526 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:50:44,526 - INFO - Sent discovery broadcast
+2026-05-12 19:50:44,533 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:54:44,552 - INFO - UDP Listener started on port 50000
+2026-05-12 19:54:44,553 - INFO - TCP Listener started on port 50001
+2026-05-12 19:57:42,550 - INFO - UDP Listener started on port 50000
+2026-05-12 19:57:42,551 - INFO - TCP Listener started on port 50001
+2026-05-12 19:58:08,571 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 19:58:08,572 - INFO - Sent discovery broadcast
+2026-05-12 19:58:08,579 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 19:58:16,564 - INFO - Ping 192.168.1.7 success: True
+2026-05-12 19:58:20,327 - INFO - Port scan results for 192.168.1.7: {21: False, 22: False, 80: False, 443: False, 8080: True}
+2026-05-12 20:00:44,133 - INFO - UDP Listener started on port 50000
+2026-05-12 20:00:44,134 - INFO - TCP Listener started on port 50001
+2026-05-12 20:01:03,568 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 20:01:03,568 - INFO - Sent discovery broadcast
+2026-05-12 20:01:03,576 - INFO - Discovered device: 127.0.0.1:50000 - islam
+2026-05-12 20:02:53,141 - INFO - UDP Listener started on port 50000
+2026-05-12 20:02:53,141 - INFO - TCP Listener started on port 50001
+2026-05-12 20:02:55,872 - INFO - Discovered device: 192.168.1.7:50000 - islam
+2026-05-12 20:02:55,872 - INFO - Sent discovery broadcast
+2026-05-12 20:02:55,879 - INFO - Discovered device: 127.0.0.1:50000 - islam
